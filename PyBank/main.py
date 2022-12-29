@@ -42,6 +42,7 @@ summary = f"Financial Analysis\n" \
           f"Greatest Increase in Profits: {increase_date} ({increase_amt})\n" \
           f"Greatest Decrease in Profits: {decrease_date} ({decrease_amt})"
 
+# save text file with results
 with open('./analysis/results.txt', 'w') as results:
     results.write(summary)
 
