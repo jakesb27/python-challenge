@@ -2,6 +2,8 @@ import csv
 
 
 vote_totals = {}
+most_votes = 0
+winner = 0
 
 # open csv file and store in a list
 with open('./Resources/election_data.csv', newline='', encoding='utf-8') as csv_file:
@@ -18,5 +20,9 @@ votes = len(rows)
 
 for key, value in vote_totals.items():
     print(f"{key}: {value/votes} {value}")
+    if value > most_votes:
+        most_votes = value
+        winner = key
 
-print(max(vote_totals, key=vote_totals.get))
+print(winner)
+# print(max(vote_totals, key=vote_totals.get))
