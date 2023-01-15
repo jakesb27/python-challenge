@@ -43,7 +43,7 @@ avg_change = "${:,}".format(round(sum(change_list)/len(change_list), 2))
 increase_amt = "${:,}".format(max_inc)
 decrease_amt = "${:,}".format(max_dec)
 
-# summary of analysis string
+# create summary string for saving to txt file
 summary = f"Financial Analysis\n" \
           f"----------------------------\n" \
           f"Total Months: {months}\n" \
