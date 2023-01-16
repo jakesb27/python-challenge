@@ -2,6 +2,8 @@
 
 UCI Data Analytics Bootcamp | Module 3 Challenge
 
+<br></br>
+
 ## Summary  |  PyBank
 
 PyBank.py is a simple financial analysis script that provides a summary of a company's profits (or losses) given the profits of each month for any give time frame. The summary includes the number of months analyzed, total profits, average change in profits, greatest increase, and greatest decrease.
@@ -20,6 +22,7 @@ PyPoll.py is a simple polling analysis script that will total voting ballots and
 
 The PyPoll.py requires data in csv format with only three columns. Column one, labeled "Ballot", is the ballot number. Column two, labeled "County", is the county the vote was cast in. Column three, labeled "Candidate", is the candidate that the voter chose.
 
+<br></br>
 
 ## Example Screenshots
 
