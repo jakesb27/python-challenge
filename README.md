@@ -11,6 +11,10 @@ PyBank.py is a simple financial analysis script that provides a summary of a com
 The PyBank.py requires data in csv format with only two columns. Column one, labeled "Date", is the date in mmm-yy format. Column two, labeled "Profit/Losses", is the companies profits or losses. Losses should be indicated with a minus sign, i.e. -9999.
 
 
+
+
+
+
 ## Summary  |  PyPoll
 
 PyPoll.py is a simple polling analysis script that will total voting ballots and provide a detailed summary of the results. The summary includes total votes, each candidate along with their totals votes and percentage, and the winner of the poll.
