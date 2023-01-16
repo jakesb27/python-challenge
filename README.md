@@ -30,6 +30,8 @@ The PyPoll.py requires data in csv format with only three columns. Column one, l
 
 ![image](https://user-images.githubusercontent.com/82631980/212574873-d067ee3a-522d-409e-94a9-f8a14d420f30.png)
 
-## Licanse
+<br></br>
+
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
