@@ -10,10 +10,7 @@ PyBank.py is a simple financial analysis script that provides a summary of a com
 
 The PyBank.py requires data in csv format with only two columns. Column one, labeled "Date", is the date in mmm-yy format. Column two, labeled "Profit/Losses", is the companies profits or losses. Losses should be indicated with a minus sign, i.e. -9999.
 
-
-
-
-
+<br></br>
 
 ## Summary  |  PyPoll
 
